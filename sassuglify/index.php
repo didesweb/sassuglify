@@ -7,7 +7,7 @@
 </head>
 <body>
 	<?php 
-		echo 'Hola mundo 1';  
+		echo 'Hola mundo';  
 	?>
 	<script src="app/scripts/functions.js"></script>
 </body>
